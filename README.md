@@ -8,3 +8,7 @@
 # ATIVIDADE 2 
 ## ZooApp
 <img src="\ZooApp\Screenshot_20250515_003206.png" alt="Descrição da imagem" width="300" />
+
+# ATIVIDADE 3
+## PlanetApp
+<img src="\PlanetApp\PlanetAppPhoto.png" alt="Descrição da imagem" width="300" />
