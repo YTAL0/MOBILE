@@ -11,4 +11,4 @@
 
 # ATIVIDADE 3
 ## PlanetApp
-<img src="\PlanetApp\PlanetAppPhoto.png" alt="Descrição da imagem" width="300" />
+<img src="\PlanetApp\qwopdjq230.png" alt="Descrição da imagem" width="300" />
