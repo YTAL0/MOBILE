@@ -15,6 +15,6 @@
 
 # ATIVIDADE 4
 ## TaskList
-<img src="\TaskList\Screen_recording_20250524_192840.gif" alt="Descrição da imagem" width="300" />
+<img src="\TaskLite\Screen_recording_20250524_192840.gif" alt="Descrição da imagem" width="300" />
 
 
