@@ -23,5 +23,13 @@
 <img src="AlarmApp\asdasdsadasdsaas.png" alt="Descrição da imagem" width="300" />
 <img src="AlarmApp\asdasdsadasdsa.png" alt="Descrição da imagem" width="300" />
 
+# ATIVIDADE 6
+## TaskMannagerApp
+<img src="\TaskMannagerApp\Screenshot_20250612_025305.png" alt="Descrição da imagem" width="300" />
+
+* Modo escuro
+<img src="TaskMannagerApp\Screenshot_20250612_025327.png" alt="Descrição da imagem" width="300" />
+
+
 
 
